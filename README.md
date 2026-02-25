@@ -26,3 +26,21 @@ A personal build lab focused on producing tangible projects in finance, tech, an
 
 3\) Run scripts from src/
 
+
+
+\## Scripts
+
+
+
+\### Energy snapshot (30 trading days)
+
+Runs a simple return snapshot for selected energy/tech tickers and saves output to `data/energy\_snapshot\_30d.csv`.
+
+
+
+Run:
+
+```bash
+
+python src/energy\_snapshot.py
+
